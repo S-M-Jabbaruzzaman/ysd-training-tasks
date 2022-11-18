@@ -1,0 +1,2 @@
+This is practice demo file.
+This is gitignore file..it is created in local repository and now turns to remote repository.
